@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 I'm Shivam!
+[![Twitter Badge](https://img.shields.io/badge/-starry_shivam-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/starry_shivam)](https://twitter.com/Isha_1321)  [![Gmail Badge](https://img.shields.io/badge/-starry369126@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:starry369126@outlook.com)](mailto:starry369126@outlook.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
 
-<!--
-**starry69/starry69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
+-  **Languages :** Python 🐍, Learning HTML & CSS
+-  **Hobbies :** Articles, Music & Movies :headphones:
+-  **Fact :** Die with memories not dreams :heart: 
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![github stats](https://github-readme-stats.vercel.app/api?username=starry69&show_icons=true)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+🌟 From [Starry Shivam](https://github.com/starry69)
+
