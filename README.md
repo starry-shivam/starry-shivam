@@ -3,10 +3,11 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** HTML & CSS :zap: | Open-Source :fire:	
+-  **Learning :** HTML & CSS | Open-Source :heart:	
 -  **Languages :** Python 🐍
 -  **Hobbies :** Articles, Music & Movies :headphones:
--  **Fact :** Die with memories not dreams :heart: 
+-  **Fact :** “Music gives a soul to the universe, wings to the mind, flight to the imagination
+and life to everything.”
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
