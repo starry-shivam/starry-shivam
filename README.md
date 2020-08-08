@@ -5,7 +5,7 @@
 
 -  **Learning :** HTML & CSS | Open-Source :heart:	
 -  **Languages :** Python 🐍
--  **Hobbies :** Articles, Music & Movies :headphones:
+-  **Hobbies :** Articles, Music & Movies 🎶
 -  **Fact :** “Music gives a soul to the universe, wings to the mind, flight to the imagination
 and life to everything.”
 
