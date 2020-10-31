@@ -19,3 +19,4 @@ Taken from https://github.com/anuraghazra/github-readme-stats/blob/master/readme
 -->
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/starryboi)
+<a href="https://twitter.com/starry_shivam"><img src="https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge&logo=twitter"></a> 
