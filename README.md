@@ -1,6 +1,6 @@
-# Howdy, it's Shivam! 🤙
+# Hello, it's Shivam! 👋
 
-I'm computer science student from India, my favorite programing language is python ( since it's also the first programming language i learnt) and I'm currently increasing my knowledge by learning more languages while working on some small projects & contributing to open source community
+I'm computer science student from India, my favorite programing language is python, ( since it's also the first programming language i learnt) and I'm currently increasing my knowledge by learning more languages while working on some small projects & contributing to open source community!
 ## Programming Languages:
 
 - **Languages learnt: Python :snake:, Postgresql, HTML**
