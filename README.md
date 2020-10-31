@@ -1,20 +1,21 @@
-## Hi there 👋 It's Shivam!
-[![Twitter Badge](https://img.shields.io/badge/-starry_shivam-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/starry_shivam)](https://twitter.com/starry_shivam)  [![Gmail Badge](https://img.shields.io/badge/-starry369126@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:starry369126@outlook.com)](mailto:starry369126@outlook.com)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### About
+# Howdy, it's Shivam! 🤙
 
--  **Learning :** HTML & CSS | Open-Source :heart:	
--  **Languages :** Python 🐍
--  **Hobbies :** Articles, Music & Movies 🎶
--  **Fact :** “Music gives a soul to the universe, wings to the mind, flight to the imagination
-and life to everything.”
+I'm computer science student from India, my favorite programing language is python ( since it's also the first programming language i learnt) and I'm currently increasing my knowledge by learning more languages while working on some small projects & contributing to open source community
+## Programming Languages:
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- **Languages learnt: Python :snake:, Postgresql, HTML**
+ 
+- **Currently learning: C, Kotlin, Flutter, Bashscript**
 
-![github stats](https://github-readme-stats.vercel.app/api?username=starry69&show_icons=true)
+### Recommended editors
+[![Atom](https://img.shields.io/badge/atom-28b463.svg?style=for-the-badge&logo=atom)](https://atom.io/)
+[![Visual Studio](https://img.shields.io/badge/VisualStudioCode-1da1f2.svg?style=for-the-badge&logo=visual-studio-code)](https://vscodium.com/)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Starry shivam's github stats](https://github-readme-stats.vercel.app/api?username=starry69&show_icons=true&theme=dark)
 
+<!--- 
+Taken from https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md, this is a gradient card. Edit colors if you'd like.
+![Austin Hornhead's github stats](https://github-readme-stats.vercel.app/api?username=marchingon12&show_icons=true&bg_color=30,FFDEE9,B5FFFC&title_color=000000&text_color=2b2b2b&icon_color=ff009e) 
+-->
 
-🌟 From [Starry Shivam](https://github.com/starry69)
-
+[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/starryboi)
