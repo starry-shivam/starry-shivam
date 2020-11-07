@@ -5,7 +5,7 @@ I'm computer applications student from India, my favorite programing language is
 
 - **Languages learnt: Python :snake:, Postgresql, HTML**
  
-- **Currently learning: C, Kotlin, Flutter, Bashscript**
+- **Currently learning: C, Flutter, JavaScript**
 
 ### Recommended editors
 [![Atom](https://img.shields.io/badge/atom-28b463.svg?style=for-the-badge&logo=atom)](https://atom.io/)
