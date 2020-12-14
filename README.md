@@ -7,6 +7,8 @@ I'm computer applications student from India, my favorite programing language is
  
 - **Currently learning: C, JavaScript**
 
+- **Currently working on: [@acutebot](http://t.me/acutebot) & some other small fun projects**
+
 ### Recommended editors
 [![Atom](https://img.shields.io/badge/atom-28b463.svg?style=for-the-badge&logo=atom)](https://atom.io/)
 [![Visual Studio](https://img.shields.io/badge/VisualStudioCode-1da1f2.svg?style=for-the-badge&logo=visual-studio-code)](https://vscodium.com/)
