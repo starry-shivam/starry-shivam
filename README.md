@@ -4,9 +4,7 @@ I'm computer applications student from India, my favorite programing language is
 ## Programming Languages:
 
 - **Languages learnt: Python :snake:, Postgresql, HTML**
- 
 - **Currently learning: C, JavaScript**
-
 - **Currently working on: [@acutebot](http://t.me/acutebot) & some other small fun projects**
 
 ### Recommended editors
