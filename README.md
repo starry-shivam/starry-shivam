@@ -8,7 +8,7 @@ I'm computer applications student from India, my favorite programing language is
 - **Currently working on**: [@acutebot](http://t.me/acutebot) & some other small fun projects.
 
 ## 💙 My hobbies:
-- **Listing music**: Some of my favorite artists are NF, Eminem, Ed Sheeran, Radwimps etc. Generally i love every musician!
+- **Listing music**: Some of my favorite artists are NF, Eminem, Avicii, Ed Sheeran, Radwimps etc. Generally i love every musician!
 - **Watching anime**: My favorite ones include Attack On Titan, Your lie in april, Demon slayer, Weathering with you & lot more i can't write.
 - **Superhero movies**: Been fan of Marvel ever since iron man (2008) dropped. My favorite superhero is Iron Man aka Tony Stark.
 
