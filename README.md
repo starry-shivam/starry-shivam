@@ -19,16 +19,7 @@ I'm computer applications student from India, my favorite programing language is
 ## 🌐 **Top Languages**
 
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=starry69&show_icons=true&theme=radical&layout=compact)](https://github.com/starry69)
-
-## 💰 **Donations & Support**
-
-- **Buy me a Ko-fi**:
-
-    <a href='https://ko-fi.com/starry69' target='_blank'><img height='25' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=a&w=144' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
-- **Support on paypal**:
-    You can also support me directly on paypal by visiting this [link](http://paypal.me/starryrays)
-    
+   
 
 ## 🗨️ Contact me on
 
