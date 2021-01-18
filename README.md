@@ -1,17 +1,22 @@
+<div align="center">
+    <img src="https://telegra.ph//file/aba802b94012d57c2311c.jpg">
+</div>
+
 # Hello, it's Shivam! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
 
 I'm computer applications student from India, my favorite programing language is python, ( since it's also the very first programming language i learnt) and I'm currently increasing my knowledge by learning more languages while working on some small projects & contributing towards open source community!
-## 👨‍💻 Programming Languages:
+## 👨‍💻 Programming Languages
 
 - **Languages learnt**: Python :snake:
 - **Currently learning**: JavaScript & C
-- **Other skills**: PostgreSQL & HTML
+- **Other skills**: PostgreSQL, SQLite & HTML
 - **Currently working on**: [@acutebot](http://t.me/acutebot) & some other small fun projects.
 
-## 💙 My hobbies:
-- **Listing music**: Some of my favorite artists are NF, Eminem, Avicii, Ed Sheeran, Radwimps etc. Generally i love every musician!
-- **Watching anime**: My favorite ones include Attack On Titan, Your lie in april, Demon slayer, Weathering with you & lot more i can't write.
-- **Superhero movies**: Been fan of Marvel ever since iron man (2008) dropped. My favorite superhero is Iron Man aka Tony Stark.
+## 🌟 Interest areas
+- **Reading books** 📖: I love reading books about social science, history, sci-fi, astronomy & astrophysics.
+- **Listing music** 🎧: Some of my favorite artists are NF, Eminem, Avicii, Ed Sheeran, Radwimps etc. Generally i love every musician!
+- **Watching anime** 🖥️: My favorite ones include Attack On Titan, Your lie in april, Demon slayer, Weathering with you & lot more i can't write.
+- **Superhero movies 🕷️**: Been fan of Marvel ever since iron man (2008) dropped. My favorite superhero is Iron Man aka Tony Stark.
 
 ##  🐙 **Github Stats**
 
