@@ -7,9 +7,8 @@
 I'm computer applications student from India, my favorite programing language is python, ( since it's also the very first programming language i learnt) and I'm currently increasing my knowledge by learning more languages while working on some small projects & contributing towards open source community!
 ## 👨‍💻 Programming Languages
 
-- **Languages learnt**: Python :snake:
+- **Languages learnt**: Python & SQL
 - **Currently learning**: JavaScript & C
-- **Other skills**: PostgreSQL, SQLite & HTML
 - **Currently working on**: [@acutebot](http://t.me/acutebot) & some other small fun projects.
 
 ## 🌟 Interest areas
