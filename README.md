@@ -6,12 +6,12 @@
 # Hello, it's Shivam! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
 
 I'm computer applications student from India, my favorite programing language is python, ( since it's also the very first programming language i learnt) and I'm currently increasing my knowledge by learning more about backend development while working on some small projects & contributing towards open source community!
-## 👨‍💻 Programming Languages
+## 🚀 Programming Languages
 
 - **Languages learnt**: Python & SQL
 - **Currently learning**: JavaScript & C
 
-## 🚀 currently working on
+## 👨‍💻 currently working on
 - **αcutєвσt** : A telegram bot which gives you info about your favourite movies, TV shows & anime series! By using it you can also download music and share what you're listening to, with your friends. View it live on [Telegram](https://t.me/acutebot).
 - **SuperHero-Quotes** : A RESTful JSON API consisting huge collection of quotes & dialogues from your favorite superheros & supervillains! View it live by clicking [here](https://superhero-quotes.herokuapp.com/).
 
