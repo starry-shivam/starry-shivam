@@ -1,21 +1,19 @@
+
 <div align="center">
-    <img src="https://telegra.ph//file/aba802b94012d57c2311c.jpg">
+    <img src="https://telegra.ph//file/68c0ddfae091359f3a9b1.png">
 </div>
 
 # Hello, it's Shivam! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
 
-I'm computer applications student from India, my favorite programing language is python, ( since it's also the very first programming language i learnt) and I'm currently increasing my knowledge by learning more languages while working on some small projects & contributing towards open source community!
+I'm computer applications student from India, my favorite programing language is python, ( since it's also the very first programming language i learnt) and I'm currently increasing my knowledge by learning more about backend development while working on some small projects & contributing towards open source community!
 ## 👨‍💻 Programming Languages
 
 - **Languages learnt**: Python & SQL
 - **Currently learning**: JavaScript & C
-- **Currently working on**: [@acutebot](http://t.me/acutebot) & some other small fun projects.
 
-## 🌟 Interest areas
-- **Reading books** 📖: I love reading books about social science, history, sci-fi, astronomy & astrophysics.
-- **Listing music** 🎧: Some of my favorite artists are NF, Eminem, Avicii, Ed Sheeran, Radwimps etc. Generally i love every musician!
-- **Watching anime** 🖥️: My favorite ones include Attack On Titan, Your lie in april, Demon slayer, Weathering with you & lot more i can't write.
-- **Superhero movies 🕷️**: Been fan of Marvel ever since iron man (2008) dropped. My favorite superhero is Iron Man aka Tony Stark.
+## 🚀 My projects
+- **αcutєвσt** : A telegram bot which gives you info about your favourite movies, TV shows & anime series! By using it you can also download music and share what you're listening to, with your friends. View it live on [Telegram](https://t.me/acutebot).
+- **SuperHero-Quotes** : A RESTful JSON API consisting huge collection of quotes & dialogues from your favorite superheros & supervillains! View it live by clicking [here](https://superhero-quotes.herokuapp.com/).
 
 ##  🐙 **Github Stats**
 
