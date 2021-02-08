@@ -11,7 +11,7 @@ I'm computer applications student from India, my favorite programing language is
 - **Languages learnt**: Python & SQL
 - **Currently learning**: JavaScript & C
 
-## 👨‍💻 currently working on
+## 👨‍💻 projects I'm working on
 - **αcutєвσt** : A telegram bot which gives you info about your favourite movies, TV shows & anime series! By using it you can also download music and share what you're listening to, with your friends. View it live on [Telegram](https://t.me/acutebot).
 - **SuperHero-Quotes** : A RESTful JSON API consisting huge collection of quotes & dialogues from your favorite superheros & supervillains! View it live by clicking [here](https://superhero-quotes.herokuapp.com/).
 
