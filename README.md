@@ -9,7 +9,7 @@ I'm computer applications student from India, my favorite programing language is
 ## 👩‍💻 Programming Languages
 
 - **Languages learnt**: Python & SQL
-- **Currently learning**: C & C++
+- **Currently learning**: C & Golang
 
 ## 🔭 projects I'm working on
 - **αcutєвσt** : A telegram bot which gives you info about your favourite movies, TV shows & anime series! By using it you can also download music and share what you're listening to, with your friends. View it live on [Telegram](https://t.me/acutebot).
