@@ -6,7 +6,7 @@
 # Hello, it's Shivam! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
 
 I'm computer applications student from India, my favorite programing language is python, ( since it's also the very first programming language i learnt) and I'm currently increasing my knowledge by learning more about backend development while working on some small projects & contributing towards open source community!
-## 👩‍💻 Programming Languages
+## 👩‍💻 Programming
 
 - **Languages learnt**: Python & SQL
 - **Currently learning**: C & Golang
