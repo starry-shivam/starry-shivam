@@ -10,18 +10,11 @@ I'm computer applications student from India, my favorite programing language is
 
 - **Languages learnt**: Python & SQL
 - **Currently learning**: C & Golang
+- **Currently maintaining**: [αcutєвσt](https://t.me/acutebot) & [PTB](https://github.com/python-telegram-bot/python-telegram-bot)
 
-## 🔭 projects I'm working on
-- **αcutєвσt** : A telegram bot which gives you info about your favourite movies, TV shows & anime series! By using it you can also download music and share what you're listening to, with your friends. View it live on [Telegram](https://t.me/acutebot).
-- **SuperHero-Quotes** : A RESTful JSON API consisting huge collection of quotes & dialogues from your favorite superheros & supervillains! View it live by clicking [here](https://superhero-quotes.herokuapp.com/).
+##  📊 **Github Stats**
 
-##  🐙 **Github Stats**
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=starry69&show_icons=true&theme=radical)](https://github.com/starry69)
-
-## 📊 **Top Languages**
-
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=starry69&show_icons=true&theme=radical&layout=compact)](https://github.com/starry69)
+[![github stats](https://github-readme-stats.vercel.app/api?username=starry69&show_icons=true&theme=dark)](https://github.com/starry69)
 
 ## 📬 Social Media
 
