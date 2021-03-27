@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://telegra.ph//file/89f953a02274b8dc0232f.jpg">
+    <img src="https://telegra.ph//file/97587953e389d1938fce7.jpg">
 </div>
 
 # Hello, it's Shivam! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
