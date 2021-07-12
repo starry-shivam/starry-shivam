@@ -14,7 +14,16 @@ I'm computer applications student from India, my favorite programing language is
 
 ##  📊 **Github Stats**
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=starry69&show_icons=true&theme=dark)](https://github.com/starry69)
+[![github stats](https://github-readme-stats.vercel.app/api?username=starry69&show_icons=true&theme=light)](https://github.com/starry69)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starry69&layout=compact&langs_count=99)](https://github-readme-stats.vercel.app/api/top-langs/?username=starry69&layout=compact&langs_count=99)
+
+
+## ⚡ Streak
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=starry69"/></p>
+
+<br>
 
 ## 📬 Social Media
 
