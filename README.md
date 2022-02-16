@@ -7,33 +7,12 @@
 
 I'm computer applications student from India, my favorite programing language is python, ( since it's also the very first programming language i learnt) and I'm currently increasing my knowledge by learning more about backend development while working on some small projects & contributing towards open source community!
 
-## 👩‍💻 Programming
-<details>
-   <summary>Click me >~< </summary>
-
-- **Languages learnt**: Python & SQL
-- **Currently learning**: C & Golang
-- **Currently maintaining**: [αcutєвσt](https://t.me/acutebot) & [PTB](https://github.com/python-telegram-bot/python-telegram-bot)
-</details>
-
-##  📊 **Github Stats**
-<details>
-   <summary>Click me >~< </summary>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=starry69&show_icons=true&theme=light)](https://github.com/starry69)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starry69&layout=compact&langs_count=99)](https://github-readme-stats.vercel.app/api/top-langs/?username=starry69&layout=compact&langs_count=99)
 
-</details>
-
-## ⚡ Streak
-<details>
-   <summary>Click me >~< </summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=starry69"/></p>
-
-<br>
-</details>
 
 ## 📬 Social Media
 
