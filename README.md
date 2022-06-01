@@ -1,6 +1,4 @@
-
-
-### Hello, it's Shivam! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
+### Hello, it's Shivam! 🙋
 I'm just some guy who likes to code for fun and have interest in open source devlopment, You can contact me via following mediums, thanks.
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/starryboi)
