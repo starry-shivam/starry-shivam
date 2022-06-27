@@ -1,16 +1,16 @@
 ![poggers](https://telegra.ph/file/5182040558f29af1e1ebc.jpg)
-### Hello! It's Shivam ✨
-- I'm a computer science student from india and a self thought programmer.
+### Hello! It's Shivam 👋
+- I'm a computer science student and a self thought programmer from india.
 - I'm currently learning Kotlin and android developement and I've good knowledge of python and many python frameworks such as SQLAchemy, Flask etc. i also know basic C and C++
 - I love open source devlopment and have contributed to lots of oepn source projects in last two years.
 - Apart from programming related stuffs, i love watching anime & reading novels in free time.
 
-### Stuffs I've built
+### Stuffs I've built ⚒️
 - [αcutєвσt](https://t.me/acutebot) A multipurpose telegram bot to get everything about movies, TVshows, Anime, Manga & Music, check it out.
 - [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money.
 - [SuperHero-Quotes](https://github.com/Pool-Of-Tears/SuperHero-Quotes) Restful JSON API consisting huge collection of Marvel & DC SuperHeros and Supervillains quotes!
 
-### Open source contributions
+### Open source contributions 🙆
 - [python-telegram-bot](https://github.com/python-telegram-bot) A library which provides a pure Python, asynchronous interface for the Telegram Bot API.
 - [python-markdown2](https://github.com/trentm/python-markdown2) markdown2: A fast and complete implementation of Markdown in Python.
 - [Pyfy](https://github.com/omarryhan/pyfy) Async / Sync python wrapper for Spotify's web API.
@@ -18,7 +18,7 @@
 
 And more...
 
-### Tech stack.
+### Tech stack. 🧑‍💻
 ![Kotlin](https://img.shields.io/badge/Kotlin-9644E9?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -36,7 +36,7 @@ And more...
 
 ![Shivams's github stats](https://github-readme-stats.vercel.app/api?username=starry69&show_icons=true&theme=dark)
 
-### Contact me
+### Contact me 🗨️
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](starry369126@outlook.com)
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/starryboi)
 <a href="https://twitter.com/starry_shivam"><img src="https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge&logo=twitter"></a> [![starry69's DEV Profile](https://img.shields.io/badge/dev-black.svg?style=for-the-badge&logo=dev.to)](https://dev.to/starry69)  <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
