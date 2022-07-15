@@ -34,7 +34,8 @@ And more...
 ![Figma](https://img.shields.io/badge/FIGMA-FF7261?style=for-the-badge&logo=figma&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-![Shivams's github stats](https://github-readme-stats.vercel.app/api?username=starry69&show_icons=true&theme=dark)
+![Shivams's github stats](https://github-readme-stats.vercel.app/api?username=starry69&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=starry69)](https://git.io/streak-stats)
 
 ### Contact me 🗨️
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](krshivam24@proton.me)
