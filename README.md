@@ -27,12 +27,6 @@
 - I love open source devlopment and have contributed to lots of oepn source projects in last two years.
 - Apart from programming related stuffs, i love watching anime & reading novels in free time.
 
-<h2>Stuffs I've built<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"</img></h2>
-
-- [αcutєвσt](https://t.me/acutebot) A multipurpose telegram bot to get everything about movies, TVshows, Anime, Manga & Music, check it out.
-- [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money.
-- [SuperHero-Quotes](https://github.com/Pool-Of-Tears/SuperHero-Quotes) Restful JSON API consisting huge collection of Marvel & DC SuperHeros and Supervillains quotes!
-
 <h2>GitHub Stats<img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50"</img></h2>
 
 ![Shivams's github stats](https://github-readme-stats.vercel.app/api?username=starry69&show_icons=true&count_private=true&hide_border=true&theme=dark)
