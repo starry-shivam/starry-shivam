@@ -28,11 +28,11 @@ Hi there! I'm Shivam, a computer science student and self thought programmer fro
 
 <p align="center">
  
-![Shivams's github stats](https://github-readme-stats.vercel.app/api?username=starry69&show_icons=true&count_private=true&hide_border=true) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starry69&show_icons=true&hide_border=true&layout=compact&cache_seconds=7200&theme=white" />
+![Shivams's github stats](https://github-readme-stats.vercel.app/api?username=starry-shivam&show_icons=true&count_private=true&hide_border=true) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starry-shivam&show_icons=true&hide_border=true&layout=compact&cache_seconds=7200&theme=white" />
   
 </p>  
 
-![](https://komarev.com/ghpvc/?username=starry69)
+![](https://komarev.com/ghpvc/?username=starry-shivam)
 
 <h2 align="center">Get in touch <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
 
