@@ -1,6 +1,6 @@
 <h1>Hi! It's Shivam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28"></h1>
 
-I'm a computer science student and a self taught programmer from india. I'm currently learning Kotlin, Android development and UI/UX designing. I love open source devlopment and have contributed to lots of oepn source projects in last three years, apart from programming related stuffs, i love watching anime & reading novels in free time.
+I'm a computer science student and a self-taught programmer from india. I'm currently learning Kotlin, Android development and UI/UX designing. I love open source devlopment and have contributed to lots of oepn source projects in last three years, apart from programming related stuffs, i love watching anime & reading novels in free time.
 
 ![](https://komarev.com/ghpvc/?username=starry-shivam)
 
