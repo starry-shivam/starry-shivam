@@ -4,7 +4,7 @@ I'm a computer science student and a self-taught programmer from india. I'm curr
 
 ![](https://komarev.com/ghpvc/?username=starry-shivam)
 
-<h2>Tech Stack <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30"</img></h2>
+<h2>Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="30"</img></h2>
 
 ![](https://skillicons.dev/icons?i=kotlin,python,c,cpp,java,androidstudio,idea,vscode,linux,git,github,githubactions,flask,html,markdown,sqlite,mysql,postgres,redis)
 
