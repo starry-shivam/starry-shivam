@@ -2,7 +2,7 @@
 
 I'm a computer science student and a self-taught programmer from india. I'm currently learning Kotlin, Android development and UI/UX designing. I love open source devlopment and have contributed to lots of open source projects in last three years, apart from programming related stuffs, i love watching anime & reading novels in free time.
 
-![](https://komarev.com/ghpvc/?username=starry-shivam)
+![](https://komarev.com/ghpvc/?username=starry-shivam&style=for-the-badge&abbreviated=true)
 
 <h2>Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="30"</img></h2>
 
