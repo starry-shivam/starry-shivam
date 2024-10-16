@@ -6,7 +6,7 @@ I'm a computer science student and a self-taught programmer from india. I'm curr
 
 <h2>Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="30"</img></h2>
 
-![](https://skillicons.dev/icons?i=kotlin,python,c,cpp,java,androidstudio,idea,vscode,linux,git,github,firebase,githubactions,flask,html,markdown,sqlite,mysql,postgres,redis)
+![](https://skillicons.dev/icons?i=kotlin,java,python,c,cpp,androidstudio,idea,vscode,linux,git,github,firebase,githubactions,flask,html,markdown,sqlite,mysql,postgres,redis)
 
 <h2>GitHub Stats <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22"></h2>
   
